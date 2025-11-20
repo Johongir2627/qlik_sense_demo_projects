@@ -1,0 +1,65 @@
+<tutors>
+    <tutor>
+        <id>t1</id>
+        <name>Alejandro Carvalho</name>
+        <gender>male</gender>
+        <date_of_birth>01/08/1989</date_of_birth>
+        <email>alejandro.carvalho@university.com</email>
+        <department>Data Analytics</department>
+        <specialization>Data Modeling</specialization>
+    </tutor>
+        <tutor>
+        <id>t1</id>
+        <name>Alejandro Carvalho</name>
+        <gender>male</gender>
+        <date_of_birth>01/08/1989</date_of_birth>
+        <email>alejandro.carvalho@university.com</email>
+        <department>Data Analytics</department>
+        <specialization>Data Visualization</specialization>
+    </tutor>
+    <tutor>
+        <id>t2</id>
+        <name>Lothar Müller</name>
+        <gender>male</gender>
+        <date_of_birth>21/05/1970</date_of_birth>
+        <email>lothar.mueller@university.com</email>
+        <department>Data Engineering</department>
+        <specialization>Data Cleansing</specialization>
+    </tutor>
+    <tutor>
+        <id>t2</id>
+        <name>Lothar Müller</name>
+        <gender>male</gender>
+        <date_of_birth>21/05/1970</date_of_birth>
+        <email>lothar.mueller@university.com</email>
+        <department>Data Engineering</department>
+        <specialization>API</specialization>
+    </tutor>
+    <tutor>
+        <id>t3</id>
+        <name>Emily Johnson</name>
+        <gender>female</gender>
+        <date_of_birth>16/03/1984</date_of_birth>
+        <email>emily.johnson@university.com</email>
+        <department>Data Science</department>
+        <specialization>Deep Learning</specialization>
+    </tutor>
+    <tutor>
+        <id>t3</id>
+        <name>Emily Johnson</name>
+        <gender>female</gender>
+        <date_of_birth>16/03/1984</date_of_birth>
+        <email>emily.johnson@university.com</email>
+        <department>Data Science</department>
+        <specialization>Generative AI</specialization>
+    </tutor>
+    <tutor>
+        <id>t4</id>
+        <name>Olivia Carter</name>
+        <gender>female</gender>
+        <date_of_birth>15/06/1984</date_of_birth>
+        <email>olivia.carter@university.com</email>
+        <department>Data Science</department>
+        <specialization>Cloud Computing</specialization>
+    </tutor>
+</tutors>

@@ -1,0 +1,88 @@
+{
+  "courses": [
+    {
+      "id": "c1",
+      "code": "DBA",
+      "credits": 20,
+      "level": null,
+      "semester_number": 1
+    },
+    {
+      "id": "c2",
+      "code": "PRG",
+      "credits": 20,
+      "level": null,
+      "semester_number": 2
+    },
+    {
+      "id": "c3",
+      "code": "STA",
+      "credits": 20,
+      "level": "Basic",
+      "semester_number": 3
+    },
+    {
+      "id": "c4",
+      "code": "DEN",
+      "credits": 10,
+      "level": "Advanced",
+      "semester_number": 4
+    },
+    {
+      "id": "c5",
+      "code": "DCG",
+      "credits": 10,
+      "level": null,
+      "semester_number": 4
+    },
+    {
+      "id": "c6",
+      "code": "MLG",
+      "credits": 10,
+      "level": null,
+      "semester_number": 4
+    },
+    {
+      "id": "c7",
+      "code": "DMN",
+      "credits": 10,
+      "level": "Advanced",
+      "semester_number": 5
+    },
+    {
+      "id": "c8",
+      "code": "ETL",
+      "credits": 10,
+      "level": "Advanced",
+      "semester_number": 5
+    },
+    {
+      "id": "c9",
+      "code": "DLG",
+      "credits": 10,
+      "level": "Advanced",
+      "semester_number": 5
+    },
+    {
+      "id": "c10",
+      "code": "DVN",
+      "credits": 10,
+      "level": "Advanced",
+      "semester_number": 6
+    },
+    {
+      "id": "c11",
+      "code": "API",
+      "credits": 10,
+      "level": null,
+      "semester_number": 6
+    },
+    {
+      "id": "c12",
+      "code": "CVN",
+      "credits": 10,
+      "level": "Advanced",
+      "semester_number": 6
+    }
+  ]
+}
