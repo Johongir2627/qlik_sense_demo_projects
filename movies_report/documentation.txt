@@ -44,7 +44,7 @@ Spider-Man (2002) – Strong commercial performance with fewer awards
 5. Tools & Technologies (Suggested)
 Depending on implementation, the project may use:
 Python (Pandas, NumPy, Matplotlib, Seaborn)
-SQL for querying and aggregation
+SQL for querying and aggregation ✅✅✅✅
 Power BI / Tableau for visualization
 Excel for initial data exploration
 Machine Learning libraries (scikit-learn)
