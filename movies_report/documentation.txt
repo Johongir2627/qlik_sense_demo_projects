@@ -10,10 +10,10 @@ machine learning tasks such as predicting box office revenue or Oscar wins.
 
 2. Objectives
 The main objectives of this project are:
-    To analyze the relationship between movie budgets and box office revenue
-    To explore how genre, director, and country influence movie success
-    To examine the impact of Oscar nominations and wins on financial performance
-    To provide structured data suitable for business intelligence dashboards or predictive models
+    To analyze the relationship between movie budgets and box office revenue.
+    To explore how genre, director, and country influence movie success.
+    To examine the impact of Oscar nominations and wins on financial performance.
+    To provide structured data suitable for business intelligence dashboards or predictive models.
 
 3. Dataset Description
 The dataset contains information about movies released between different years, 
