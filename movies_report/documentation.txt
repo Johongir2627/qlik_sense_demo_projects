@@ -1,1 +1,11 @@
 Movie Dataset Analysis Project
+
+This project is focused on analyzing a movie dataset containing key information about popular films, 
+including their financial performance, production details, and award achievements. 
+The dataset enables exploratory data analysis to understand trends in movie budgets, 
+box office success, genres, and Oscar performance.
+The project can be used for data analysis, data visualization, statistical analysis, or 
+machine learning tasks such as predicting box office revenue or Oscar wins.
+
+
+
