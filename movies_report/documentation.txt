@@ -35,3 +35,8 @@ Dataset Fields
 | **Nominations**  | Number of Oscar nominations        |
 | **Oscar Wins**   | Number of Oscars won               |
 
+4. Sample Records
+Example movies included in the dataset:
+Jurassic Park (1993) – High box office success with multiple Oscar wins
+Titanic (1998) – One of the highest-grossing movies with record-breaking Oscar wins
+Spider-Man (2002) – Strong commercial performance with fewer awards
