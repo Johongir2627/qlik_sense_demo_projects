@@ -15,3 +15,23 @@ The main objectives of this project are:
     To examine the impact of Oscar nominations and wins on financial performance
     To provide structured data suitable for business intelligence dashboards or predictive models
 
+3. Dataset Description
+The dataset contains information about movies released between different years, 
+covering financial, artistic, and award-related attributes.
+
+Dataset Fields
+| Column Name      | Description                        |
+| ---------------- | ---------------------------------- |
+| **ID**           | Unique identifier for each movie   |
+| **Title**        | Name of the movie                  |
+| **Release Date** | Official movie release date        |
+| **Run Time**     | Duration of the movie in minutes   |
+| **Genre**        | Primary genre of the movie         |
+| **Director**     | Movie director                     |
+| **Country**      | Country of production              |
+| **Certificate**  | Age rating / content certificate   |
+| **Budget**       | Production budget (USD)            |
+| **Box Office**   | Worldwide box office revenue (USD) |
+| **Nominations**  | Number of Oscar nominations        |
+| **Oscar Wins**   | Number of Oscars won               |
+
