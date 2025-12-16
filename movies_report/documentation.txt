@@ -49,4 +49,7 @@ Power BI / Tableau for visualization
 Excel for initial data exploration
 Machine Learning libraries (scikit-learn)
 
-
+6. Conclusion
+This project demonstrates how structured movie data can be analyzed to extract 
+meaningful insights about financial success and award recognition. 
+It serves as a strong foundation for data analytics, business intelligence, and predictive modeling projects.
